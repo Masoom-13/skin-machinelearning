@@ -1,7 +1,5 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+#  skin-cancer classification  
+
 
 Description of the app ...
 
