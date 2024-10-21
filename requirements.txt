@@ -1,7 +1,7 @@
-streamlit
-numpy 
-tensorflow 
-tensorflow.keras.models
-PIL 
-matplotlib.pyplot 
-os
+import streamlit
+import numpy 
+import tensorflow 
+import tensorflow.keras.models
+import PIL 
+import matplotlib.pyplot 
+import os
