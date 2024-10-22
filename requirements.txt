@@ -2,6 +2,11 @@ streamlit
 numpy 
 tensorflow-cpu==2.5.0
 tensorflow.keras.models
-PIL 
 matplotlib.pyplot 
 os
+keras
+pandas
+matplotlib
+pillow
+seaborn
+gunicorn
