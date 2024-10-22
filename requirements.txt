@@ -1,6 +1,6 @@
 streamlit
 numpy 
-tensorflow-cpu==2.5.0
+tensorflow
 tensorflow.keras.models
 matplotlib.pyplot 
 os
