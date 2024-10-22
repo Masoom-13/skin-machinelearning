@@ -1,7 +1,7 @@
 streamlit
 numpy 
 tensorflow
-tensorflow.keras.models
+keras-models
 matplotlib.pyplot 
 os
 keras
