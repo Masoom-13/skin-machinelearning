@@ -13,11 +13,10 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+Load the trained model which is avilable in .h5 file formate 
+Or file should be save in .keras fole formate.
+after that you need to load data set from kaggel 
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+You can include diffrent feature extraction methor for training and get diffrent output
